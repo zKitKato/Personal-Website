@@ -1,6 +1,6 @@
 export default function school() {
   return (
-    <html>
+    <html lang="en">
       <body>
         <main>
           <h1>School projects</h1>

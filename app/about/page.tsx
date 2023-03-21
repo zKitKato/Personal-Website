@@ -1,6 +1,6 @@
 export default function about() {
   return (
-    <html>
+    <html lang="en">
       <body>
         <main>
           <h1>About page</h1>
