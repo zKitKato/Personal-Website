@@ -1,7 +1,12 @@
 export default function school() {
   return (
-    <main>
-      <h1>School projects</h1>
-    </main>
+    <html>
+      <body>
+        <main>
+          <h1>School projects</h1>
+          <p>Error 404 Content not found</p>
+        </main>
+      </body>
+    </html>
   )
 }
