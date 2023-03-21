@@ -1,6 +1,4 @@
 import './globals.css'
-import Navbar from './navbar'
-import Footer from './footer'
 
 export const metadata = {
   title: 'Personal-Website',
@@ -15,9 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <>
-      <Navbar />
       <main>{children}</main>
-      <Footer />
     </>
   )
 }
